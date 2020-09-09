@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: ;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+.btn {
+  color: #e66767;
+}
+
+.clicked {
+  color: #778beb;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
